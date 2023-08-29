@@ -15,4 +15,6 @@ Once the digital twin has been designed and implemented, a series of tests are c
 
 Although the proof of concept shows that these points are covered, a series of future works aimed at further highlighting the usefulness of digital twins are presented. The paper ends with the conclusions, which show that the objectives have been met.
 
-The full document can be accessed from here: 
+The full document can be accessed from here:
+(spanish version) -> 
+(english version) -> *Coming soon*
