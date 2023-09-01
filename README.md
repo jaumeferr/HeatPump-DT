@@ -1,7 +1,6 @@
 # Digital twinning your home heat pump system
 
-![image](https://github.com/jaumeferr/HeatPump-DT/assets/36743497/3ec5352c-c168-4e59-b537-e4956ec2210f)
-
+![image](https://github.com/jaumeferr/HeatPump-DT/assets/36743497/5674ba72-5fc3-40b0-a387-ec12375540d6)
 
 This work is focused on the world of Digital Twins, virtual and autonomous replicas of a real product, service or system that rely on information provided by its physical counterpart in order to reflect the current state of the system and to adapt predictively to the different episodes of its life cycle.
 
