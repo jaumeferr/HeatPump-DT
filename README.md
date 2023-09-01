@@ -1,5 +1,8 @@
 # Digital twinning your home heat pump system
 
+![image](https://github.com/jaumeferr/HeatPump-DT/assets/36743497/3ec5352c-c168-4e59-b537-e4956ec2210f)
+
+
 This work is focused on the world of Digital Twins, virtual and autonomous replicas of a real product, service or system that rely on information provided by its physical counterpart in order to reflect the current state of the system and to adapt predictively to the different episodes of its life cycle.
 
 In this project, the benefits of digitizing domestic environments through the use of digital twins are studied. Specifically, the implemented solution is developed on the heat pump system deployed in the Innovation Center Ca Ses Llúcies in order to improve the efficiency and maintenance of the machine as well as the user's own comfort.
